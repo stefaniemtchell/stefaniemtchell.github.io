@@ -1,0 +1,27 @@
+h1 {
+  padding-left: 0px;  /* Removes left padding */
+  padding-right: 0px; /* Removes right padding */
+  width: 100%;         /* Adjusts width to fill the parent container */
+}
+
+body {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  
+  p {
+    font-family: arial 12px;
+    font:size: 50px;
+  }
+  
+.headerfont {
+    font-family: EB Garamond;
+    
+  }
+  
+  /* Remove the following style for div to remove the border. */
+  
+div {
+    border-style: solid;
+    border: 0px solid black;
+}
